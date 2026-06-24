@@ -10,7 +10,7 @@ Analyzed the step-by-step journey a customer goes through when applying for a mo
 ## Repository Structure
 - data folder: Simulated mortgage datasets evaluating acquisition, processing, and retention
 - workflow folder: KNIME executable workflows
-- documentation folder: Reports explaining theory, executive summaries, tools, and BI architecture
+- documentation folder: Initial conception phase and BI architecture
 ## Key Findings
 - Website Drop-offs: I figured out why people start a mortgage application online but don´t finish it (like confusing forms or technical glitches)
 - Slow Approvals: I found out what causes delays when the company is reviewing and approving a loan (like missing paperwork)
