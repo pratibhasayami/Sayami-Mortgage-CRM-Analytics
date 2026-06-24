@@ -15,3 +15,5 @@ Analyzed the step-by-step journey a customer goes through when applying for a mo
 - Website Drop-offs: I figured out why people start a mortgage application online but don´t finish it (like confusing forms or technical glitches)
 - Slow Approvals: I found out what causes delays when the company is reviewing and approving a loan (like missing paperwork)
 - Customer Loyalty: I predicted which current customers would likely want to refinance their loans in the future so the company can reach out to them first. 
+## Business Process Diagram
+<img width="569" height="639" alt="Business Process Diagram" src="https://github.com/user-attachments/assets/1683e3b6-a217-49a9-85f2-18e9f2c35aaa" />
